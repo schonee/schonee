@@ -1,5 +1,6 @@
 ### Olá, me chamo Thalia Schöne 👋
+##Aprendendo a ser uma Desenvolvedora Front-end 👩🏻‍💻
 
 - 🌱  Estou aprendendo Spring Boot e React JS
-- 📫  Me encontre em: <a href="https://www.linkedin.com/in/thalia-schone/" </a>
+
 
