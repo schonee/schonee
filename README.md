@@ -1,5 +1,5 @@
 
-<img  src="https://i.imgur.com/5OHdC4P.png" align="center"/>
+<img style="align: center" src="https://i.imgur.com/5OHdC4P.png" align="center"/>
 
 
 - Find me : 
