@@ -1,7 +1,7 @@
 ## Hi, I'm Thalia 👋
 
 
-<img src="https://i.imgur.com/7nw1qrB.png">
+<img src="https://i.imgur.com/POmroEK.png">
 
 
 - Find me : 
