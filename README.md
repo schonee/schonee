@@ -1,6 +1,6 @@
 <p align="center">
 
-
+<img src="https://i.imgur.com/hRQBB00.png"/>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/thalia-schone/" target="_blank">
