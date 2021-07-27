@@ -1,12 +1,12 @@
 <p align="center">
 
-<img src="https://i.imgur.com/hRQBB00.png"/>
+<!-- <img src="https://i.imgur.com/hRQBB00.png"/>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/thalia-schone/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-2D2D2F?style=flat&logo=linkedin&logoColor=white">
   </a>
-
+ -->
 <br>
 
 <p align="center">
