@@ -1,5 +1,5 @@
 <p align="center">
-Thalia Schöne
+<h2>Thalia Schöne</h2>
 Frontend_
 <!-- <img src="https://i.imgur.com/hRQBB00.png"/>
 </p>
