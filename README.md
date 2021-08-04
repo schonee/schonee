@@ -1,5 +1,6 @@
 <p align="center">
-
+Thalia Schöne
+Frontend_
 <!-- <img src="https://i.imgur.com/hRQBB00.png"/>
 </p>
 <p align="center">
