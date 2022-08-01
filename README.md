@@ -8,7 +8,8 @@ Frontend_
   <img src="https://img.shields.io/badge/-LinkedIn-2D2D2F?style=flat&logo=linkedin&logoColor=white">
   </a>
  -->
-<br>
+<br>![Component 1 (1)](https://user-images.githubusercontent.com/57106307/182257663-97ee2925-0607-4ca3-910f-6ca7d50ee1a7.png)
+
 
 <p align="center">
   <a href="https://github.com/ThaliaCS/ThaliaCS">
