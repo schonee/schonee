@@ -1,14 +1,12 @@
 <p align="center">
 <h2>Thalia Schöne</h2>
-Frontend_
-<!-- <img src="https://i.imgur.com/hRQBB00.png"/>
+Frontend_ <img src="https://i.imgur.com/hRQBB00.png"/>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/thalia-schone/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-2D2D2F?style=flat&logo=linkedin&logoColor=white">
   </a>
- -->
-<br>![Component 1 (1)](https://user-images.githubusercontent.com/57106307/182257663-97ee2925-0607-4ca3-910f-6ca7d50ee1a7.png)
+ 
 
 
 <p align="center">
