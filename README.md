@@ -1,6 +1,6 @@
 <p align="center">
 <h2>Thalia Schöne</h2>
-Frontend_ <img src="https://i.imgur.com/hRQBB00.png"/>
+<img src="https://i.imgur.com/hRQBB00.png"/>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/thalia-schone/" target="_blank">
