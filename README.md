@@ -1,5 +1,4 @@
 <p align="center">
-<h2>Thalia Schöne</h2>
 <img src="https://i.imgur.com/ZfKC3aO.png"/>
 </p>
 <p align="center">
