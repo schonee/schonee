@@ -1,8 +1,9 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57106307/220505725-d649cc35-c290-44e4-bdb9-af16ce4bc56f.png"/>
+<img src="https://user-images.githubusercontent.com/57106307/220505859-3c0517ec-48aa-4012-bfd0-7babe5e89d06.png"/>
 </p>
 <p align="center">
-<!--
+
+
 <p align="center">
   <a href="https://github.com/ThaliaCS/ThaliaCS">
     <img
