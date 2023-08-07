@@ -1,9 +1,4 @@
 
-<p align="center">
-_Front-end Developer
-</p>
-
-
 
 
 
