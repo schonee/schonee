@@ -1,13 +1,8 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/57106307/220505859-3c0517ec-48aa-4012-bfd0-7babe5e89d06.png"/>
-</p>
-<p align="center">
-<!--
 
 <p align="center">
 _Front-end Developer
 </p>
--->
+
 
 
 
