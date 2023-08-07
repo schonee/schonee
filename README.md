@@ -5,21 +5,7 @@
 <!--
 
 <p align="center">
-  <a href="https://github.com/ThaliaCS/ThaliaCS">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=ThaliaCS&show_icons=true&count_private=true&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=2D2D2F"
-    />
-  </a>
-  
-  <a href="https://github.com/ThaliaCS/ThaliaCS">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaliaCS&hide=java,html&title_color=d0d0d0&text_color=d0d0d0&icon_color=d0d0d0&bg_color=2D2D2F&layout=compact&theme=radical"
-    />
-  </a>
+_Front-end Developer
 </p>
 -->
 
