@@ -13,14 +13,6 @@ Desenvolvedora Front-end | React • TypeScript • Next.js
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThaliaCS&show_icons=true&theme=tokyonight" alt="Thalia's GitHub stats" />
-</p>
-
----
-
 - 💌 Email: thalia.schone@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/thalia-schone/)
 
